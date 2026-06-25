@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Next.js<br>🎯 Goals: Master full-stack develpoment<br>📫 How to reach me: abdullah.m.alhatem@gmail.com<br>📄 My Resume : <a href="https://drive.google.com/file/d/10fg_fLlxmDZyPlV4qdQEwXl8EceeShRX/view?usp=drive_link">📥</a></p>
+<p align="left">📚 I'm currently learning Next.js<br>🎯 Goals: Master full-stack develpoment<br>📫 How to reach me: abdullah.m.alhatem@gmail.com<br>📄 My Resume : <a href="https://drive.google.com/file/d/1wuz8dI1fLMw79xzg8PFqn4GgQvd5OrC-/view?usp=drive_link">📥</a></p>
 
 ###
 
